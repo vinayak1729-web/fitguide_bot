@@ -1,3 +1,4 @@
 
 pip :
 pip install -U langchain-weaviate langchain-openai weaviate-client python-dotenv
+pip install rapidfuzz
